@@ -372,19 +372,3 @@ Create `.env` files for different environments:
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
-## 📞 Support
-
-For support, email support@ems.com or open an issue on GitHub.
-
----
-
-Built with ❤️ using the MERN Stack
